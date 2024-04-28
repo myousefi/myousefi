@@ -4,6 +4,8 @@ When I'm not coding, let's chat about 🗽 New England/Boston, 🤿 scuba diving
 
 <img src="fig/lying-cat.svg" alt="Lying Cat" style="fill: gray;">
 
-### 📫 Contact Me
+<img src="fig/lying-cat.svg" alt="Lying Cat" style="fill: gray;">
 
-I have added them to my profile. Look left if you are on Desktop/PC or above if on Mobile. or [drop me a line!](mailto:m@ysfi.me?subject=GitHub%20Profile)
+### Contact Me
+
+[Drop me a line!](mailto:m@ysfi.me?subject=GitHub%20Profile) or contact me through the links I have included in my Github profile. Look left if you are on Desktop/PC or above if on Mobile.
